@@ -60,4 +60,4 @@ This project is open source and available under the [MIT License](LICENSE).
 **Kanishka Sharma**  
 - Web Development Intern at **CodeClause**  
 - GitHub: [https://github.com/kanishka8590](https://github.com/kanishka8590)  
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/kanishka-sharma-13abb7351)
